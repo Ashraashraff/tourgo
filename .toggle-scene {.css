@@ -1,0 +1,10 @@
+.toggle-scene {
+    overflow: visible !important;
+    height: 50vmin;
+    position: absolute;
+}
+
+.toggle-scene__cord {
+    stroke: var(--cord);
+    cursor: move;
+}
